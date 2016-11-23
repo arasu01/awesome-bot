@@ -15,7 +15,7 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 - [Messenger Platforms](#messenger-platforms)
 - [Contributing](#contributing-and-license)
 
-## Develper Platforms
+## Developer Platforms
 * [Api.AI](http://api.ai/) - It's a conversational user experience platform. Build brand-unique, natural language interactions for bots, applications, services, and devices.
 * [Chatfuel](http://chatfuel.com/) - Create an AI chatbot to suit your needs. Build & launch a full-featured chatbot in 7 minutes without coding.
 * [Motion AI](http://www.motion.ai/) - Visually build, train & deploy bots to do just about anything. Chatbots made easy.
@@ -31,7 +31,7 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 
 ## Messenger Platforms
 * [BlingChat Messenger Bot](https://www.messenger.com/t/blingbot/) - Learn and discover engagement rings or upload your designs
-
+* [MotivateBot](https://www.messenger.com/t/MotivateBot/) - Messenger bot sending inspiring quotes daily and on-demand
 
 
 # Contributing and License
