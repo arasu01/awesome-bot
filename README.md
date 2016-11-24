@@ -18,14 +18,14 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 ## Developer Platforms
 * [Api.AI](http://api.ai/) - It's a conversational user experience platform. Build brand-unique, natural language interactions for bots, applications, services, and devices.
 * [Chatfuel](http://chatfuel.com/) - Create an AI chatbot to suit your needs. Build & launch a full-featured chatbot in 7 minutes without coding.
+* [ItsAlive](http://itsalive.io/) - Easy Facebook Chatbot Builder for everyone. It's the easiest way to create your own Facebook Chatbot without coding knowledge. Create questions and answers and link it to your Facebook page in minutes.
 * [Motion AI](http://www.motion.ai/) - Visually build, train & deploy bots to do just about anything. Chatbots made easy.
 * [Recast AI](http://recast.ai/) - Create the most advanced bots in the simplest way. Collaborative Bot Platform.
 * [ManyChat](http://manychat.com/) - Send news and content, automate interaction and much more. Easy 2-minute setup. No coding required.
-* [ARAnalytics](https://github.com/orta/ARAnalytics) - Analytics abstraction library offering a sane API for tracking events and user data.
 * [Flow XO](http://flowxo.com/) - Everything you need to create and manage bots. Bot + human messaging in one great platform.
-* [MOCA Analytics](https://mocaplatform.com/features) - Paid cross-platform analytics backend.
-* [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
-* [Abbi](https://github.com/abbiio/iosdk) - A Simple SDK for developers to manage and maximise conversions of all in-app promotions.
+* [Smooch](http://smooch.io/) - Smooch lets you manage conversations with your customers from the business systems you already use.
+* [Gupshup](http://www.gupshup.io/developer/home) - Build, test and deploy your bot in minutes, across platforms.
+* [Octane](http://octaneai.com/) - The Easiest Way to Create a Chatbot. Drive sales, capture leads, and increase engagement on your Facebook Page. Ready to launch in minutes.
 * [Good News](http://goodnewsbot.herokuapp.com) - Need a little good news in your life?
 
 
