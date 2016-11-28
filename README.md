@@ -27,6 +27,7 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 * [Gupshup](http://www.gupshup.io/developer/home) - Build, test and deploy your bot in minutes, across platforms.
 * [Octane](http://octaneai.com/) - The Easiest Way to Create a Chatbot. Drive sales, capture leads, and increase engagement on your Facebook Page. Ready to launch in minutes.
 * [Good News](http://goodnewsbot.herokuapp.com) - Need a little good news in your life?
+* [Init AI](http://www.init.ai/) - The most powerful way to build, train, and deploy intelligent conversational apps. Automate conversations, Analyze them for actionable insights,and Assist sales and support staff in communications.
 
 
 ## Messenger Platforms
