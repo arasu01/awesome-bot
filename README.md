@@ -26,9 +26,10 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 * [Smooch](http://smooch.io/) - Smooch lets you manage conversations with your customers from the business systems you already use.
 * [Gupshup](http://www.gupshup.io/developer/home) - Build, test and deploy your bot in minutes, across platforms.
 * [Octane](http://octaneai.com/) - The Easiest Way to Create a Chatbot. Drive sales, capture leads, and increase engagement on your Facebook Page. Ready to launch in minutes.
-* [Good News](http://goodnewsbot.herokuapp.com) - Need a little good news in your life?
+* [Rebotify](http://www.rebotify.com/) - Rebotify helps you build chat bot in a fun way. Build once, publish anywhere. Your bots work with Facebook, WeChat and Slack simultaneously.
 * [Init AI](http://www.init.ai/) - The most powerful way to build, train, and deploy intelligent conversational apps. Automate conversations, Analyze them for actionable insights,and Assist sales and support staff in communications.
 * [Capsule AI](https://capsule.ai/) - Remember everywhere you've been
+* [Good News](http://goodnewsbot.herokuapp.com) - Need a little good news in your life?
 
 
 ## Messenger Platforms
