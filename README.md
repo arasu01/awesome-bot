@@ -13,6 +13,7 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 ## Content
 - [Develper Platforms](#libraries-and-frameworks)
 - [Messenger Platforms](#messenger-platforms)
+- [Prototyping](#prototyping)
 - [Contributing](#contributing-and-license)
 
 ## Developer Platforms
@@ -31,6 +32,11 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 * [Capsule AI](https://capsule.ai/) - Remember everywhere you've been
 * [Good News](http://goodnewsbot.herokuapp.com) - Need a little good news in your life?
 
+## Prototyping
+* [BotSociety](http://botsociety.io/) - BotSociety allows you to quickly create and iterate a conversation with your future bot. Before it's coded.
+* [BotMock](http://botmock.com/) - Design your Facebook Messenger bot conversations with our easy drag and drop editor. No coding required. Export your mocks into a gif or video instantly.
+* [Botframe](http://botframe.com/) - A playground to design & validate bots.
+* [Bots UI Kit](http://bots.mockuuups.com/) - Fully customizable Sketch UI Kit for Messenger Platform.
 
 ## Messenger Platforms
 * [BlingChat Messenger Bot](https://www.messenger.com/t/blingbot/) - Learn and discover engagement rings or upload your designs
