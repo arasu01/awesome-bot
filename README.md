@@ -13,6 +13,7 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 ## Content
 - [Develper Platforms](#libraries-and-frameworks)
 - [Messenger Platforms](#messenger-platforms)
+- [Prototyping](#prototyping)
 - [Contributing](#contributing-and-license)
 
 ## Developer Platforms
