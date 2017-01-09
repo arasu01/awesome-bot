@@ -17,7 +17,6 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 - [Contributing](#contributing-and-license)
 
 ## Developer Platforms
-* [Api.AI](http://api.ai/) - It's a conversational user experience platform. Build brand-unique, natural language interactions for bots, applications, services, and devices.
 * [Chatfuel](http://chatfuel.com/) - Create an AI chatbot to suit your needs. Build & launch a full-featured chatbot in 7 minutes without coding.
 * [ItsAlive](http://itsalive.io/) - Easy Facebook Chatbot Builder for everyone. It's the easiest way to create your own Facebook Chatbot without coding knowledge. Create questions and answers and link it to your Facebook page in minutes.
 * [Motion AI](http://www.motion.ai/) - Visually build, train & deploy bots to do just about anything. Chatbots made easy.
@@ -28,6 +27,7 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 * [Gupshup](http://www.gupshup.io/developer/home) - Build, test and deploy your bot in minutes, across platforms.
 * [Octane](http://octaneai.com/) - The Easiest Way to Create a Chatbot. Drive sales, capture leads, and increase engagement on your Facebook Page. Ready to launch in minutes.
 * [Rebotify](http://www.rebotify.com/) - Rebotify helps you build chat bot in a fun way. Build once, publish anywhere. Your bots work with Facebook, WeChat and Slack simultaneously.
+* [Botkit](http://howdy.ai/botkit) - Botkit is the most popular open-source toolkit for creating bots for messaging platforms. It provides a semantic interface to sending and receiving messages so developers can focus on creating novel applications and experiences.
 * [Init AI](http://www.init.ai/) - The most powerful way to build, train, and deploy intelligent conversational apps. Automate conversations, Analyze them for actionable insights,and Assist sales and support staff in communications.
 * [Capsule AI](https://capsule.ai/) - Remember everywhere you've been
 * [Good News](http://goodnewsbot.herokuapp.com) - Need a little good news in your life?
