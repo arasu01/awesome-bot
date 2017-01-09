@@ -34,6 +34,7 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 
 ## Prototyping
 * [BotSociety](http://botsociety.io/) - BotSociety allows you to quickly create and iterate a conversation with your future bot. Before it's coded.
+* [BotPreview](http://botpreview.com/) - BotPreview allows you to easily create mocks of Messenger chatbot interactions and to share and export them as HTML/JavaScript or MP4 video - all without writing a single line of code! The ideal tool for marketers, entrepreneurs and designers.
 * [BotMock](http://botmock.com/) - Design your Facebook Messenger bot conversations with our easy drag and drop editor. No coding required. Export your mocks into a gif or video instantly.
 * [Botframe](http://botframe.com/) - A playground to design & validate bots.
 * [Bots UI Kit](http://bots.mockuuups.com/) - Fully customizable Sketch UI Kit for Messenger Platform.
