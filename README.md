@@ -18,6 +18,7 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 
 ## Developer Platforms
 * [Chatfuel](http://chatfuel.com/) - Create an AI chatbot to suit your needs. Build & launch a full-featured chatbot in 7 minutes without coding.
+* [Botpress](http://botpress.io/) - Free, modular & open-source bot building platform.
 * [ItsAlive](http://itsalive.io/) - Easy Facebook Chatbot Builder for everyone. It's the easiest way to create your own Facebook Chatbot without coding knowledge. Create questions and answers and link it to your Facebook page in minutes.
 * [Motion AI](http://www.motion.ai/) - Visually build, train & deploy bots to do just about anything. Chatbots made easy.
 * [Recast AI](http://recast.ai/) - Create the most advanced bots in the simplest way. Collaborative Bot Platform.
