@@ -29,6 +29,7 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 * [Octane](http://octaneai.com/) - The Easiest Way to Create a Chatbot. Drive sales, capture leads, and increase engagement on your Facebook Page. Ready to launch in minutes.
 * [Rebotify](http://www.rebotify.com/) - Rebotify helps you build chat bot in a fun way. Build once, publish anywhere. Your bots work with Facebook, WeChat and Slack simultaneously.
 * [Botkit](http://howdy.ai/botkit) - Botkit is the most popular open-source toolkit for creating bots for messaging platforms. It provides a semantic interface to sending and receiving messages so developers can focus on creating novel applications and experiences.
+* [BOTTR.me](http://bottr.me/) - BOTTR.me is a personal chat bot platform. In one click create your own bot that can simplify anything you want into a conversation and allow anyone (fans, foto talk to your virtual identity.
 * [Init AI](http://www.init.ai/) - The most powerful way to build, train, and deploy intelligent conversational apps. Automate conversations, Analyze them for actionable insights,and Assist sales and support staff in communications.
 * [Capsule AI](https://capsule.ai/) - Remember everywhere you've been
 * [Good News](http://goodnewsbot.herokuapp.com) - Need a little good news in your life?
