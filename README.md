@@ -39,6 +39,7 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 * [BotMock](http://botmock.com/) - Design your Facebook Messenger bot conversations with our easy drag and drop editor. No coding required. Export your mocks into a gif or video instantly.
 * [Botframe](http://botframe.com/) - A playground to design & validate bots.
 * [Bots UI Kit](http://bots.mockuuups.com/) - Fully customizable Sketch UI Kit for Messenger Platform.
+* [Messaging Design Kit](http://layer.com/messaging-design-kit) - A design kit for Sketch, containing everything you need to craft beautiful and functional rich messaging experiences.
 
 ## Messenger Platforms
 * [BlingChat Messenger Bot](https://www.messenger.com/t/blingbot/) - Learn and discover engagement rings or upload your designs
