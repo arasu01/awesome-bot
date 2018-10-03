@@ -15,6 +15,7 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 - [Develper Platforms](#libraries-and-frameworks)
 - [Messenger Platforms](#messenger-platforms)
 - [Prototyping](#prototyping)
+- [Testing](#testing)
 - [Contributing](#contributing-and-license)
 
 ## Developer Platforms
@@ -47,6 +48,10 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 * [BlingChat Messenger Bot](https://www.messenger.com/t/blingbot/) - Learn and discover engagement rings or upload your designs
 * [MotivateBot](https://www.messenger.com/t/MotivateBot/) - Messenger bot sending inspiring quotes daily and on-demand
 
+## Testing
+* [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
+* [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
+* [Chatbottest](http://chatbottest.com/) - ChatbotTest is an open source guide that helps you identify chatbot's design issues under 7 different categories.
 
 # Contributing and License
  * - Yet to Come.
