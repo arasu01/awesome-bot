@@ -15,6 +15,7 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 - [Develper Platforms](#libraries-and-frameworks)
 - [Messenger Platforms](#messenger-platforms)
 - [Prototyping](#prototyping)
+- [Monetization](#monetization)
 - [Testing](#testing)
 - [Contributing](#contributing-and-license)
 
@@ -47,6 +48,12 @@ A curated list of awesome Bot frameworks, libraries, tutorials.
 ## Messenger Platforms
 * [BlingChat Messenger Bot](https://www.messenger.com/t/blingbot/) - Learn and discover engagement rings or upload your designs
 * [MotivateBot](https://www.messenger.com/t/MotivateBot/) - Messenger bot sending inspiring quotes daily and on-demand
+
+## Monetization
+* [RadBots](https://radbots.com/) - Monetization Tools For Bots
+* [waves.ai](https://www.waves.ai/) - Learn, grow & let your goals become reality
+* [cashbot.ai](https://cashbot.ai/?fref=gc) - Monetization platform for chat & voice experiences that leverages the rich context of conversation to make relevant, timely product recommendations which lead directly to sales conversions via mobile & traditional E-Commerce.
+
 
 ## Testing
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
